@@ -2,7 +2,7 @@ import '../css/live-map.css'
 
 function LiveMap() {
 
-  let mapURL = "http://mickycraft.com:8123";
+  let mapURL = "http://mc.mickycraft.com:8123";
 
   return (
     <section>
