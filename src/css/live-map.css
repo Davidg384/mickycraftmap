@@ -1,0 +1,13 @@
+.live-map {
+    margin-top: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.live-map iframe{
+    width: 600px;
+    height: 600px;
+    border: solid 2px #121212;
+    border-radius: 5px;
+}
